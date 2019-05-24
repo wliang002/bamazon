@@ -25,11 +25,7 @@ npm install colors
 npm install node-emoji
 ```
 
-## LIRI Commands
-* concert-this
-* spotify-this-song
-* movie-this
-* do-what-it-says
+
 
 ## Demo
-[![]("image/front.png")](https://drive.google.com/file/d/14-y-chL1uQ82j4AWuIoE8PSdnVYZR7AL/view)
+[![Bamazon](image/front.png)](https://drive.google.com/file/d/14-y-chL1uQ82j4AWuIoE8PSdnVYZR7AL/view)
